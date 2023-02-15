@@ -89,6 +89,7 @@
     <searchLayouts>
         <customTabListAdditionalFields>Status</customTabListAdditionalFields>
         <customTabListAdditionalFields>HasAttachment</customTabListAdditionalFields>
+        <customTabListAdditionalFields>HasAttachment2</customTabListAdditionalFields>
         <customTabListAdditionalFields>Address</customTabListAdditionalFields>
         <customTabListAdditionalFields>Subject</customTabListAdditionalFields>
         <customTabListAdditionalFields>MessageDate</customTabListAdditionalFields>
